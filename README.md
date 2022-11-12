@@ -11,3 +11,5 @@ Your city is hosting a citywide dog show and you have volunteered to help the or
 Some people are planning on registering pets that aren’t actual dogs.
 
 You need to use an already developed Python classifier to make sure the participants are dogs.
+
+This project was part of the AI-Programming with Python Nanodregree by Udacity.
