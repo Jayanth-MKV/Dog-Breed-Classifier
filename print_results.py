@@ -63,6 +63,8 @@ def print_results(results_dic, results_stats_dic, model,
            None - simply printing results.
     """    
     
+    
+    
     if  print_incorrect_dogs:
         for i,v in results_dic.items():
             if sum(v[2:]) == 3:

@@ -126,7 +126,7 @@ def main():
           str(int((tot_time/3600)))+":"+str(int((tot_time%3600)/60))+":"
           +str(int((tot_time%3600)%60)) )
     
-    print("N Images: {:2d}  N Dog Images: {:2d}  N NotDog Images: {:2d} \nPct Corr dog: {:5.1f} Pct Corr NOTdog: {:5.1f}  Pct Corr Breed: {:5.1f}".format(
+    print("\nN Images: {:2d} \nN Dog Images: {:2d}\nN NotDog Images: {:2d} \nPct Corr dog: {:5.1f} \nPct Corr NOTdog: {:5.1f}  \nPct Corr Breed: {:5.1f}\n".format(
               results_stats['n_images'], results_stats['n_dogs_img'],
               results_stats['n_notdogs_img'], results_stats['pct_correct_dogs'],
               results_stats['pct_correct_notdogs'],

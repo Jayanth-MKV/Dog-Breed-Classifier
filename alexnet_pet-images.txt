@@ -346,5 +346,11 @@ Golden_retriever_05182.jpg  :  Tibetan mastiff
 Golden_retriever_05257.jpg  :  Afghan hound, Afghan
 
 ** Total Elapsed Runtime: 0:0:3
-N Images: 40  N Dog Images: 29  N NotDog Images: 11 
-Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  79.3
+
+N Images: 40 
+N Dog Images: 29
+  N NotDog Images: 11 
+Pct Corr dog: 100.0 
+Pct Corr NOTdog: 100.0  
+Pct Corr Breed:  79.3
+

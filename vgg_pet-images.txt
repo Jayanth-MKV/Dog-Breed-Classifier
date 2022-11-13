@@ -345,6 +345,12 @@ German_shepherd_dog_04931.jpg  :  German shepherd, German shepherd dog, German p
 Great_pyrenees_05367.jpg  :  kuvasz
 Beagle_01170.jpg  :  Walker hound, Walker foxhound
 
-** Total Elapsed Runtime: 0:0:32
-N Images: 40  N Dog Images: 29  N NotDog Images: 11 
-Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  93.1
+** Total Elapsed Runtime: 0:0:34
+
+N Images: 40 
+N Dog Images: 29
+  N NotDog Images: 11 
+Pct Corr dog: 100.0 
+Pct Corr NOTdog: 100.0  
+Pct Corr Breed:  93.1
+

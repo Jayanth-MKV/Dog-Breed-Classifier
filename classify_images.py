@@ -69,7 +69,7 @@ def classify_images(images_dir, results_dic, model):
         img_path=images_dir+i;
         classi=classifier(img_path,model)
         m=0
-        if v[0] in classi.lower():
+        if v[0] in classi.lower().strip():
             m=1
         l=[v[0],classi,m]
         results_dic[i]=l

@@ -346,5 +346,8 @@ Beagle_01170.jpg  :  Walker hound, Walker foxhound
 Golden_retriever_05182.jpg  :  Leonberg
 
 ** Total Elapsed Runtime: 0:0:5
-N Images: 40  N Dog Images: 29  N NotDog Images: 11 
-Pct Corr dog: 100.0 Pct Corr NOTdog:  90.9  Pct Corr Breed:  89.7
+
+N Images: 40 
+N Dog Images: 29
+N NotDog Images: 11 
+Pct Corr dog: 100.0 Pct Corr NOTdog:  90.9  \Pct Corr Breed:  89.7
